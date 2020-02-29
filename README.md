@@ -19,4 +19,4 @@ This repository hosts patched versions of the fonts that have the bits flipped c
 [new font test fixed]: https://user-images.githubusercontent.com/5678977/75615802-9c13f200-5afd-11ea-85f2-af427253e88f.png
 [ttx]: https://github.com/fonttools/fonttools#ttx--from-opentype-and-truetype-to-xml-and-back
 [glyph list]: https://github.com/tbodt/twitch-roobert-sane/blob/master/patch.py#L7
-[userscript]: https://github.com/tbodt/twitch-roobert-sane/blob/master/roobert-sane.user.js
+[userscript]: https://github.com/tbodt/twitch-roobert-sane/raw/master/roobert-sane.user.js
