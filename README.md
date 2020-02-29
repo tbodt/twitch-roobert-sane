@@ -1,6 +1,6 @@
 # Hey Twitch, your font is broken
 
-Twitch semi-recently [updated their font][twitch blog] to a slightly customized version of Roobert. It's a nice font, except for a fun bug with the backtick (`\``). This screenshot of text has a tilde in it. Can you spot it?
+Twitch semi-recently [updated their font][twitch blog] to a slightly customized version of Roobert. It's a nice font, except for a fun bug with the backtick (\`). This screenshot of text has a backtick in it. Can you spot it?
 
 ![Twitch search box with New Font Test][new font test broken]
 
