@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 GM_addStyle(`
-@import "https://raw.githubusercontent.com/tbodt/twitch-roobert-sane/master/roobert-sane.css";
+@import "https://raw.githack.com/tbodt/twitch-roobert-sane/master/roobert-sane.css";
 html body {
     font-family: "Roobert-Sane" !important;
 }
